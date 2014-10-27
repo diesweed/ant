@@ -1,7 +1,9 @@
 
 /**
- * @module ant
+ * @name ant
  * @author diesweed
  */
 
-mmomomomom
+export function api(){
+  //
+}
