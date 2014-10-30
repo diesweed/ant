@@ -1,6 +1,6 @@
 
 /**
- * @name ant
+ * @module ant
  * @author diesweed
  * @version 1.0.0
  */

@@ -3,4 +3,6 @@
  * Test.
  */
 
-oko
+export function api(){
+  //
+}
