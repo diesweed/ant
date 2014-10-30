@@ -3,6 +3,8 @@
  * Test.
  */
 
-export function api(){
-  //
+import sin from './index';
+
+export function dsp(t){
+  return sin(t, 440);
 }
